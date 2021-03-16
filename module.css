@@ -1,4 +1,3 @@
-/*Navigation*/
 ul.s {
 	list-style-type: none;
 	overflow: hidden;
@@ -49,7 +48,7 @@ ul.s {
 	padding-left: 200px;
 	padding-right: 200px;
 	font-size:20px;
-	padding-bottom:100px;
+	margin-bottom:20px;
 }
 .a li {
 	padding-bottom: 20px;
@@ -66,8 +65,13 @@ ul.s {
 	line-height:40px;
 	background-color:#FBAC36;
 	font-family: 'Josefin Sans', sans-serif;
+	text-align:left;
+	margin-bottom:200px;
 }
-
+.a1{
+	margin-left:200px;
+	margin-right:200px;
+}
 .courseh1 {
 	padding-top: 150px;
 	color: #FF69B4;
