@@ -22,7 +22,7 @@ ul.s {
 	font-family: 'Abril Fatface', cursive;
 }
 .s li a:hover{
-	background: rgbargba(28, 28, 26, 0);
+	color: rgba(28, 28, 26, 0);
 	text-align: center;
 	color:#d35400;
 }
