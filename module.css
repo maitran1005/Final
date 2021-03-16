@@ -22,7 +22,7 @@ ul.s {
 	font-family: 'Abril Fatface', cursive;
 }
 .s li a:hover{
-	background-color: rgbargba(28, 28, 26, 0);
+	color: rgbargba(28, 28, 26, 0);
 	text-align: center;
 	color:#d35400;
 }
@@ -148,7 +148,7 @@ ul.s {
 	
 }
 .form input, .form textarea, .form button {
-	outline: 1;
+	outline: 1px;
 	background: white;
 	width: 100%;
 	border:solid 1px #DB990A;
@@ -254,7 +254,7 @@ ul.s {
 	margin-top:150px;
 }
 //*page6*/
-h1, .MS{
+.MS{
 	color: black;
 	text-align:center;
 }
