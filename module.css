@@ -177,28 +177,26 @@ ul.s {
 }
 .icon_p{
 	font-size:15px;
-	border:solid 1px #DB990A;
+	border:solid 1px #DB990A; 
 	text-align:center;
 	width:40%;
 	margin-bottom:20px;
 	margin-left:150px;
 	border-radius:5px;
 	font-family: 'Josefin Sans', sans-serif;
+	padding-top:15px;
+	padding-bottom:10px;
+	line-height:15px;
 }
-.icon_p i{
-	font-size:30px;
-	color:#DB990A;
-	background-color:#F4F4E5
+.size{
+	height:20px;
+	width:20px;
 }
-.con_p{
-	color:black;
+.container_contact{
+	margin-top:120px;
 }
 .con_h1{
 	margin-bottom:100px;
-}
-.coml i{
-	margin-left:20px;
-	margin-right:20px;
 }
 /*page5*/
 .artifacts {
