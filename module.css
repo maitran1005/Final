@@ -207,33 +207,37 @@ ul.s {
 	font-family: 'Redressed', cursive;
 } 
 .artifacts1, .artifacts3, .artifacts5{
-	padding-top: 200px;
-	padding-right: 70px;
-	color: black;
-	line-height: 40px;
 	text-align: left;
 }
 .artifacts2, .artifacts4{
-	color:black;
-	padding-top:350px;
 	padding-left:70px;
-	text-align: left;
-	line-height: 40px;
 }
 .artifacts1 , .artifacts2, .artifacts3, .artifacts4, .artifacts5 {
-	font-size:25px;
+	font-size:20px;
 	font-family: 'Josefin Sans', sans-serif;
+		padding-right: 70px;
+	color: black;
+	line-height: 40px;
+}
+.artifacts1{
+	padding-top:300px;
+}
+.artifacts2{
+	padding-top:400px;
+}
+.artifacts3{
+	padding-top:280px;
 }
 .artifacts4{
-	padding-top:200px;
+	padding-top:300px;
 }
-.artifacts5 {
-	padding-bottom:500px;
+.artifacts5{
+	padding-top:350px;
 }
 .a1, u {
 	color: #BB531A;
 }
-.style {
+.style, .style1 {
 	float: left;
 	border-radius:20%;
 	border: 2px solid #000;
@@ -242,18 +246,10 @@ ul.s {
 	height: 500px;
 	margin-right: 100px;
 	margin-left:70px;
-	margin-top:150px;
+	margin-top:200px;
 }
 .style1 {
 	float: right;
-	border-radius:20%;
-	border: 2px solid #000;
-	border-color: black;
-	width: 500px;
-	height: 500px;
-	margin-right: 100px;
-	margin-left:70px;
-	margin-top:150px;
 }
 /*page6*/
 .MS{
